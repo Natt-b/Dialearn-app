@@ -5,7 +5,7 @@
 
 Dialearn is a language-learning app that allows you to learn a language at your convenience and on the go. It will enable learning the preferred languages from anywhere and at any time. This way, the users can utilise their free time best as they are learning the language simply from their mobile devices and laptops.
 
-## Problem to solve.
+## Problem to solve:
 
 People sometimes migrate/travel to other countries, sometimes without knowledge of the language of their host country.In academics, international students struggle with language, both in writing and speaking, yet they expect to achieve
 
@@ -17,7 +17,7 @@ People seek a second language to expand their network
 
 Using language learning apps makes distance learning of language easy, free and practical. Learners have the opportunity to adjust the process according to their learning curve (Karasimos, 2022)
 
-### User preferences
+### User preferences:
 
 It is faster than seeking a school to learn a language.
 
